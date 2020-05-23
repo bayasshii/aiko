@@ -8,4 +8,4 @@ for file in files:
     Allf = f.read()
     text = Allf.replace('\n','')
     text = text.replace('\r','')
-     #print(text, end ="")
+    #print(text, end ="")
